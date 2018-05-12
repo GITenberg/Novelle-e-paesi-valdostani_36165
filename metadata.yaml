@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5243
     wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Giacosa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36165#Novelle-e-paesi-valdostani
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2011-05-19'
 gutenberg_type: Text
